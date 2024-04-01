@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653895424 source:c:\users\hp\documents\ds project 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
